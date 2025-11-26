@@ -15,7 +15,7 @@
 
 ## 👋 Hey There!
 
-I'm **Ganesh Kambalimath** ([@No1_Ganesh](https://twitter.com/No1_Ganesh)), and I'm obsessed with building AI systems that make the internet safer. This project is personal because we've all been there—you're browsing peacefully, and suddenly... BAM! A sketchy popup claiming your computer is infected, trying to scam you out of money or steal your data.
+I'm **Ganesh Kambalimath**, and I'm obsessed with building AI systems that make the internet safer. This project is personal because we've all been there—you're browsing peacefully, and suddenly... BAM! A sketchy popup claiming your computer is infected, trying to scam you out of money or steal your data.
 
 With my background in **neural networks, federated learning, and secure AI systems**, I decided to fight back. This AI-powered fake popup detector uses deep learning to identify and block malicious popups before they can harm you. No more anxiety, no more scams—just safe browsing.
 
